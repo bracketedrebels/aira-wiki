@@ -1,5 +1,9 @@
 {
   "name": "aira-wiki",
+  "author": {
+    "email": "wolfson@bracketedrebels.com",
+    "name": "wolfson"
+  },
   "version": "0.0.0",
   "license": "MIT",
   "angular-cli": {},
